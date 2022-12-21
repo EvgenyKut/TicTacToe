@@ -1,0 +1,25 @@
+.game {
+  display: flex;
+  flex-direction: row;
+  font: 14px 'Century Gothic', Futura, sans-serif;
+  margin: 20px;
+  min-height: 260px;
+}
+
+.game ol,
+.game ul {
+  padding-left: 30px;
+}
+
+.game-info {
+  margin-left: 20px;
+  min-width: 190px;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+.restart {
+  margin-top: 10px;
+}
